@@ -66,8 +66,8 @@ Sou um **Desenvolvedor Júnior / Estudante de Análise e Desenvolvimento de Sist
 
 ## 📫 Contato
 
-- LinkedIn: [Seu LinkedIn](link)  
-- Email: seuemail@exemplo.com  
+- LinkedIn: [Enzo Rodrigues de Almeida](https://www.linkedin.com/in/enzo-almeida-784b352b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- Email: enzo100503.nei@gmail.com
 - GitHub: [l4Imortal](https://github.com/l4Imortal)
 
 ---
