@@ -77,8 +77,8 @@ Sou um **Desenvolvedor Júnior / Estudante de Análise e Desenvolvimento de Sist
 - Estou sempre estudando novas tecnologias e praticando com projetos reais.  
 - Aberto a aprender frameworks modernos (React, Node.js) e técnicas de back-end para me tornar full-stack.
 
-~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
-
+---
+---
 
 # Hello! 👋 I'm l4Imortal
 
