@@ -31,11 +31,11 @@ Sou um **Desenvolvedor Júnior / Estudante de Análise e Desenvolvimento de Sist
 - **Link direto:** [Clique aqui para acessar](https://github.com/l4Imortal/TCC.git)
 
 
-### 2. [Exercism](https://exercism.io/profiles/l4Imortal)
+### 2. [Exercism](https://github.com/l4Imortal/exercism.git)
 - **Descrição:** Repositório de exercícios de programação resolvidos na plataforma Exercism.  
 - **Tecnologias:** Várias linguagens, conforme os exercícios realizados.  
 - **Funcionalidades principais:** Prática em lógica, algoritmos e boas práticas de código.  
-- **Link direto:** [Clique aqui para acessar](https://exercism.io/profiles/l4Imortal)
+- **Link direto:** [Clique aqui para acessar](https://github.com/l4Imortal/exercism.git)
 
 ---
 
