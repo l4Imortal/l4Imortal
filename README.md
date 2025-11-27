@@ -41,11 +41,26 @@ Sou um **Desenvolvedor Júnior / Estudante de Análise e Desenvolvimento de Sist
 
 ## 💻 Habilidades
 
-- Linguagens: JavaScript, HTML, CSS  
-- Frameworks / bibliotecas: Básico de DOM manipulation e interatividade web  
-- Banco de dados: [adicionar se houver]  
-- Controle de versão: Git / GitHub  
-- Conceitos: Desenvolvimento web, lógica de programação, manipulação de DOM, eventos
+**Linguagens:**  
+- JavaScript, HTML, CSS, Python, SQL  
+
+**Frameworks / Bibliotecas:**  
+- Manipulação de DOM, Bootstrap, React básico, Express.js  
+
+**Banco de dados:**  
+- MongoDB, MySQL, SQLite  
+
+**Controle de versão:**  
+- Git / GitHub, commits e branch management básico  
+
+**Conceitos / Outros:**  
+- Desenvolvimento web (front-end e back-end básico)  
+- Lógica de programação e algoritmos  
+- Estruturas de dados básicas  
+- Manipulação de DOM, eventos e formulários  
+- Boas práticas de programação e testes simples  
+- Conceitos de REST APIs (Node.js/Express)
+
 
 ---
 
