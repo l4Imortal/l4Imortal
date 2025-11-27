@@ -6,8 +6,7 @@ Sou um **Desenvolvedor Júnior / Estudante de Análise e Desenvolvimento de Sist
 
 ## 🔭 Projetos em destaque
 
-### 1. [TCC](https://github.com/l4Imortal/TCC.git)
-### 1. [TCC – Sistema de Gerenciamento de Dados](link_para_seu_TCC)
+### 1. [TCC – Sistema de Gerenciamento de Dados](https://github.com/l4Imortal/TCC.git)
 - **Descrição:** Trabalho de Conclusão de Curso focado no desenvolvimento de um sistema para gerenciamento de dados, permitindo organização, consulta e atualização de informações de forma prática e segura.  
 - **Tecnologias:** JavaScript, HTML, CSS, Node.js, Express, MongoDB  
 - **Funcionalidades principais:**  
