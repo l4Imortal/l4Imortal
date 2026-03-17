@@ -14,6 +14,7 @@
 
 ## 🚀 Sobre mim
 
+```python
 class Desenvolvedor:
     def __init__(self):
         self.nome = "Enzo Rodrigues de Almeida"
