@@ -13,25 +13,40 @@
 ---
 
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
+
+<div align="center">
+
+💻 Desenvolvedor Full-Stack em formação
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+📍 Brasil
+
+🚀 Focado em criar soluções web modernas e escaláveis
+📚 Sempre aprendendo novas tecnologias e boas práticas
+🎯 Em busca da minha primeira oportunidade como desenvolvedor
+
+</div>
+
+---
+
+<div align="center">
 
 ```python
 class Desenvolvedor:
     def __init__(self):
-        self.nome = "Enzo Rodrigues de Almeida"
-        self.cargo = "Desenvolvedor Full-Stack em formação"
-        self.formacao = "Análise e Desenvolvimento de Sistemas (ADS)"
-        self.localizacao = "Brasil"
+        self.nome = "Enzo Rodrigues"
         self.stack = ["JavaScript", "Node.js", "React", "MySQL", "MongoDB"]
-        self.foco_atual = "Desenvolvimento Full-Stack e boas práticas"
-        self.objetivo = "Conseguir minha primeira oportunidade como desenvolvedor"
+        self.objetivo = "Primeira oportunidade como dev"
 
-    def apresentacao(self):
-        return "Obrigado por visitar meu perfil! 🚀 Vamos construir algo incrível juntos?"
+    def mensagem(self):
+        return "Vamos construir algo incrível juntos? 🚀"
 
 dev = Desenvolvedor()
-print(dev.apresentacao())
+print(dev.mensagem())
 ```
+
+</div>
+
 
 📊 Estatísticas do GitHub
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l4Imortal&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4Imortal&layout=compact&langs_count=7&theme=merko&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=l4Imortal&theme=merko&hide_border=true"/> </div>
