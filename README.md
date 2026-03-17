@@ -12,9 +12,9 @@
 
 ---
 
-<div align="center">
 ## 👨‍💻 Sobre mim
 
+<div align="center">
 
 💻 Desenvolvedor Full-Stack em formação
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
