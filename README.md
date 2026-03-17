@@ -15,7 +15,7 @@
 
 ## 🚀 Sobre mim
 
-```python
+
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
