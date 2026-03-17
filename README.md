@@ -12,7 +12,6 @@
 
 ---
 
-## 🚀 Sobre mim
 
 ## 🚀 Sobre mim
 
