@@ -28,61 +28,110 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l4Imortal&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4Imortal&layout=compact&langs_count=7&theme=merko&hide_border=true"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l4Imortal&theme=merko&hide_border=true"/>
+</div>
 
-📊 Estatísticas do GitHub
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l4Imortal&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4Imortal&layout=compact&langs_count=7&theme=merko&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=l4Imortal&theme=merko&hide_border=true"/> </div>
-🛠️ Tecnologias & Ferramentas
+---
 
-Front-end
-<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </div>
+## 🛠️ Tecnologias & Ferramentas
 
-Back-end & Banco de Dados
-<div align="center"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+### Front-end
 
-Ferramentas
-<div align="center"> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</div>
 
-🔥 Projetos em Destaque
-<div align="center"> <a href="https://github.com/l4Imortal/TCC"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=l4Imortal&repo=TCC&theme=merko&hide_border=true"/> </a> <a href="https://github.com/l4Imortal/exercism"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=l4Imortal&repo=exercism&theme=merko&hide_border=true"/> </a> </div>
-📌 TCC - Sistema de Gerenciamento
+### Back-end & Banco de Dados
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+### Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</div>
+
+---
+
+## 🔥 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/l4Imortal/TCC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l4Imortal&repo=TCC&theme=merko&hide_border=true"/>
+  </a>
+  <a href="https://github.com/l4Imortal/exercism">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l4Imortal&repo=exercism&theme=merko&hide_border=true"/>
+  </a>
+</div>
+
+---
+
+## 📌 TCC - Sistema de Gerenciamento
 
 Sistema completo com:
 
-Cadastro de dados
+* Cadastro de dados
+* Filtros avançados
+* Controle de usuários
+* Interface responsiva
 
-Filtros avançados
+**Stack:** Node.js • Express • MongoDB • JS • HTML • CSS
 
-Controle de usuários
+---
 
-Interface responsiva
+## 🌱 Atualmente estudando
 
-Stack: Node.js • Express • MongoDB • JS • HTML • CSS
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
 
-🌱 Atualmente estudando
-<div align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </div>
-📫 Contato
-<div align="center"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/> </div>
-🎯 Metas 2026
+---
 
-Dominar React
+## 📫 Contato
 
-Aprofundar Node.js
+<div align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+</div>
 
-Criar projeto full-stack completo
+---
 
-Contribuir open source
+## 🎯 Metas 2026
 
-Conseguir primeira vaga dev
+* Dominar React
+* Aprofundar Node.js
+* Criar projeto full-stack completo
+* Contribuir open source
+* Conseguir primeira vaga dev
+
+---
 
 <div align="center">
 
-💡 "O código é como poesia: cada linha deve ter um propósito."
+💡 *"O código é como poesia: cada linha deve ter um propósito."*
 
 ⭐ Obrigado pela visita!
 
-</div> ```
+</div>
