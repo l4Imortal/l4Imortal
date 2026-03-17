@@ -30,18 +30,6 @@
 
 <div align="center">
 
-class Desenvolvedor:
-    def __init__(self):
-        self.nome = "Enzo Rodrigues"
-        self.stack = ["JavaScript", "Node.js", "React", "MySQL", "MongoDB"]
-        self.objetivo = "Primeira oportunidade como dev"
-
-    def mensagem(self):
-        return "Vamos construir algo incrível juntos? 🚀"
-
-dev = Desenvolvedor()
-print(dev.mensagem())
-
 
 </div>
 
