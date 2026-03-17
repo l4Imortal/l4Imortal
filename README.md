@@ -14,19 +14,25 @@
 
 ## 🚀 Sobre mim
 
+## 🚀 Sobre mim
+
+```python
 class Desenvolvedor:
     def __init__(self):
         self.nome = "Enzo Rodrigues de Almeida"
-        self.role = "Desenvolvedor Júnior | Estudante de ADS"
+        self.cargo = "Desenvolvedor Full-Stack em formação"
+        self.formacao = "Análise e Desenvolvimento de Sistemas (ADS)"
         self.localizacao = "Brasil"
-        self.paixoes = ["Desenvolvimento Web", "Soluções Inovadoras", "Aprender Tecnologias"]
-        self.foco_atual = "Full-Stack Development"
+        self.stack = ["JavaScript", "Node.js", "React", "MySQL", "MongoDB"]
+        self.foco_atual = "Desenvolvimento Full-Stack e boas práticas"
+        self.objetivo = "Conseguir minha primeira oportunidade como desenvolvedor"
 
-    def dizer_ola(self):
-        print("Obrigado por visitar meu perfil! 🚀")
+    def apresentacao(self):
+        return "Obrigado por visitar meu perfil! 🚀 Vamos construir algo incrível juntos?"
 
-eu = Desenvolvedor()
-eu.dizer_ola()
+dev = Desenvolvedor()
+print(dev.apresentacao())
+```
 
 📊 Estatísticas do GitHub
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l4Imortal&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4Imortal&layout=compact&langs_count=7&theme=merko&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=l4Imortal&theme=merko&hide_border=true"/> </div>
