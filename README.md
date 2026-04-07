@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full-Stack+em+formação;Apaixonado+por+tecnologia+e+inovação;Sempre+aprendendo+coisas+novas&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=00FF00" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines= Desenvolvedor+Full-Stack+em+formação;Apaixonado+por+tecnologia+e+inovação;Sempre+aprendendo+coisas+novas&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=00FF00" />
 </div>
 
 <h1 align="center">
@@ -77,7 +77,7 @@
   <a href="https://github.com/l4Imortal/TCC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=l4Imortal&repo=TCC&theme=merko&hide_border=true"/>
   </a>
-  <a href="https://github.com/l4Imortal/exercism">
+  <a href="https://github.com/l4Imortal/IA-Job-Hunter.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=l4Imortal&repo=exercism&theme=merko&hide_border=true"/>
   </a>
 </div>
