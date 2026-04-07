@@ -77,11 +77,10 @@
   <a href="https://github.com/l4Imortal/TCC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=l4Imortal&repo=TCC&theme=merko&hide_border=true"/>
   </a>
-  <a href="https://github.com/l4Imortal/IA-Job-Hunter.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l4Imortal&repo=exercism&theme=merko&hide_border=true"/>
+  <a href="https://github.com/l4Imortal/IA-Job-Hunter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l4Imortal&repo=IA-Job-Hunter&theme=merko&hide_border=true"/>
   </a>
 </div>
-
 ---
 
 ## 📌 TCC - Sistema de Gerenciamento
