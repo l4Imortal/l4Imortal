@@ -73,15 +73,11 @@
 
 ## 🔥 Projetos em Destaque
 
-<div align="center">
-  <a href="https://github.com/l4Imortal/TCC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l4Imortal&repo=TCC&theme=merko&hide_border=true"/>
-  </a>
-  <a href="https://github.com/l4Imortal/IA-Job-Hunter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=l4Imortal&repo=IA-Job-Hunter&theme=merko&hide_border=true"/>
-  </a>
-</div>
----
+- 🚀 **[TCC - Plataforma de Academias](https://github.com/l4Imortal/TCC)**  
+  Sistema web para encontrar academias com filtros de localização e avaliação.
+
+- 🤖 **[IA Job Hunter](https://github.com/l4Imortal/IA-Job-Hunter)**  
+  Agente de IA para buscar e organizar vagas automaticamente.
 
 ## 📌 TCC - Sistema de Gerenciamento
 
