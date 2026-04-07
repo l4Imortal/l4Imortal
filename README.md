@@ -105,9 +105,17 @@ Sistema completo com:
 ## 📫 Contato
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+  <a href="https://www.linkedin.com/in/enzo-almeida-784b352b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:enzo100503.nei@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+
+  <a href="https://github.com/l4Imortal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+  </a>
 </div>
 
 ---
